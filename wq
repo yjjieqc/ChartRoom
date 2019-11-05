@@ -1,0 +1,26 @@
+ChatRoom code update
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Tue Nov 5 17:07:39 2019 +0800
+#
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Last command done (1 command done):
+#    pick d6932ba ChatRoom code update
+# Next command to do (1 remaining command):
+#    pick 8ba1c0b ChatRoom code update
+# You are currently editing a commit while rebasing branch 'dev' on '0a145aa'.
+#
+# Changes to be committed:
+#	modified:   Client.cpp
+#	modified:   Client.h
+#	modified:   ClientMain.cpp
+#	modified:   Common.h
+#	modified:   Makefile
+#	modified:   Server.cpp
+#	modified:   Server.h
+#	modified:   ServerMain.cpp
+#
